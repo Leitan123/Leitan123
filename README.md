@@ -1,4 +1,4 @@
-![MasterHead]([https://camo.githubusercontent.com/85d8088f419078b5efe45c2ddfe32827519e04e0d1a014c577279f95fbba525a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966](https://static.vecteezy.com/system/resources/thumbnails/042/383/337/large/ai-generated-green-natural-eco-friendly-tree-and-computer-technology-on-an-abstract-high-tech-futuristic-background-of-microchips-and-computer-circuit-boards-with-transistors-free-video.jpg))
+![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/042/383/337/large/ai-generated-green-natural-eco-friendly-tree-and-computer-technology-on-an-abstract-high-tech-futuristic-background-of-microchips-and-computer-circuit-boards-with-transistors-free-video.jpg)
 <h1 align="center">Hi 👋, I'm Leitan Thimothy</h1>
 <h3 align="center">An Information Technology Undergraduate</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
