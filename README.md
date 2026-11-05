@@ -1,6 +1,6 @@
 ![MasterHead](https://blog.landscapeprofessionals.org/wp-content/uploads/2023/05/AdobeStock_492060322-scaled.jpg)
 <h1 align="center">Hi 👋, I'm Leitan Thimothy</h1>
-<h3 align="center">An Information Technology Graducate / Bsc(Hons))</h3>
+<h3 align="center">An Information Technology Graducate / Bsc(Hons)</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 
